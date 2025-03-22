@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/hello-india",
+      "redirect": "https://hello-india.azurestaticapps.net/",
+      "statusCode": 301
+    }
+  ]
+}
